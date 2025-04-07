@@ -13,7 +13,7 @@ Sou desenvolvedor de software com experiência em várias linguagens e ferrament
 - **DevOps**: Automação de integração e entrega contínua (CI/CD) usando ferramentas como Jenkins, Docker e Kubernetes.
 
 ### 🔧 Ferramentas e Tecnologias
-```bash
+bash
 - Git | GitHub | GitLab
 - Docker | Kubernetes
 - Jenkins | Travis CI
@@ -21,7 +21,9 @@ Sou desenvolvedor de software com experiência em várias linguagens e ferrament
 - Linux (Ubuntu, Debian)
 ## Linguagens e Ferramentas
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+<br>
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
